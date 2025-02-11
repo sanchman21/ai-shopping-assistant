@@ -1,0 +1,8 @@
+praw
+pydantic 
+psycopg2-binary 
+praw
+langchain_openai
+langchain_pinecone 
+langchain
+
